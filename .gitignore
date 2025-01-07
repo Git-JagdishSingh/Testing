@@ -1,2 +1,6 @@
-*.log              
+*.log
+dir/
+TestFile.txt
+app.js
+
                                
